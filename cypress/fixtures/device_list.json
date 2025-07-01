@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Device 1",
+    "data": {
+      "year": 2020,
+      "price": 1000.00,
+      "CPU model": "Intel Core i5",
+      "Hard disk size": "500 GB",
+      "owner": "Alice"
+    }
+  },
+  {
+    "name": "Device 2",
+    "data": {
+      "year": 2021,
+      "price": 1500.00,
+      "CPU model": "Intel Core i7",
+      "Hard disk size": "1 TB",
+      "owner": "Bob"
+    }
+  }
+]
