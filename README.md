@@ -1,6 +1,3 @@
-
-npx cypress open
-
 # 🚀 Automação de API com Cypress
 
 Este projeto demonstra como automatizar testes de API utilizando o Cypress, com exemplos de boas práticas, organização de arquivos e uso de fixtures.
